@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there 👋, I'm Forhad Ahsan
+#### Software Engineer | 2+ Years of Experience
+![Software Engineer | 2+ Years of Experience](https://media.licdn.com/dms/image/v2/D5616AQET0JOnqs36Lw/profile-displaybackgroundimage-shrink_350_1400/B56Zg4W8KkHcB4-/0/1753292195749?e=1770249600&v=beta&t=JFeA1Hs0VRqcalr7myr99JkiyoJu8Rsw3NaGpSM9Q0g)
+
+I’m a passionate Software Engineer with over 2 years of hands-on experience in web development. I enjoy building clean, scalable, and user-friendly applications using modern technologies. I’m always eager to learn new tools and improve my skills through real-world projects.
+
+Skills: Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React ||  Backend: PHP, Laravel ||  Database: MySQL || Tools & Others: Git, GitHub, REST APIs, Responsive Design
+
+- 🔭 I’m currently working on Nextzen Ltd 
+- 🌱 I’m currently learning Go (Golang) 
+- 👯 I’m looking to collaborate on team-based projects 
+- 🤔 I’m looking for help with learning and improving backend systems 
+- 💬 Ask me about web development, Laravel, React, and clean code 
+- 📫 How to reach me: mdforhadahsan1999@gmail.com 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I enjoy turning complex problems into simple solutions 
 
 
-**nubforhad/nubforhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nubforhad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/forhadahsan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://github.com/nubforhad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/forhadahsan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/forhadahsanbiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/forhadahsan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/forhadahsan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/24533845/md-forhad-ahsan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@forhadahsanbiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg' alt='laravel' height='40'>](https://laravel.com/docs/12.x/structure)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>](https://www.php.net/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg' alt='go' height='40'>](https://go.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://www.javascript.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg' alt='tailwindcss' height='40'>](https://tailwindcss.com/)  
 
-Here are some ideas to get you started:
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/nubforhad)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/nubforhad&show_icons=true)  
 
