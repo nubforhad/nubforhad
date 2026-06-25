@@ -7,7 +7,7 @@ I’m a passionate Software Engineer with over 2 years of hands-on experience in
 Skills: Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React ||  Backend: PHP, Laravel ||  Database: MySQL || Tools & Others: Git, GitHub, REST APIs, Responsive Design
 
 - 🔭 I’m currently working on Nextzen Ltd 
-- 🌱 I’m currently learning Go (Golang) 
+- 🌱 I’m currently learning AI Automation & Go (Golang) 
 - 👯 I’m looking to collaborate on team-based projects 
 - 🤔 I’m looking for help with learning and improving backend systems 
 - 💬 Ask me about web development, Laravel, React, and clean code 
