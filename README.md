@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://github.com/nubforhad?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+clean+%26+scalable+web+apps;Laravel+%2B+React+Developer;Currently+learning+AI+Automation+%26+Go;Turning+complex+problems+into+simple+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+clean+%26+scalable+web+apps;Laravel+%2B+React+Developer;Currently+learning+AI+Automation+%26+Go;Turning+complex+problems+into+simple+solutions" alt="Typing SVG" />
 </a>
 
 </div>
