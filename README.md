@@ -20,7 +20,7 @@
 
 I'm a passionate **Software Engineer** with 2+ years of hands-on experience in web development. I enjoy building clean, scalable, and user-friendly applications using modern technologies, and I'm always eager to learn new tools through real-world projects.
 
-- 🔭 Currently working at **Nextzen Ltd**
+- 🔭 Currently working at **Xproy IT Ltd**
 - 🌱 Currently learning **AI Automation** & **Go (Golang)**
 - 👯 Looking to collaborate on **team-based projects**
 - 🤔 Looking for help with **learning & improving backend systems**
